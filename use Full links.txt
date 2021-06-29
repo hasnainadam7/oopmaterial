@@ -1,0 +1,26 @@
+Sb se phele to apne gabrana nhi hai or dua krni hai k ye itna kuch jo material meine collect kr k ek sath jama kia hai isme se jugar lag jaye 
+Ameen
+tip for noobs like me 
+1)bhai agr apko b meri tarh java me kuch nhi aata or isme se koi sawal mil jata hai to please ap 4 chzon k naam change kriye ga agr wo sawal me na poche gye ho
+->Class & method 
+->Variables 
+->Print k Statments 
+2)Preference 
+Sb se phele To apne pratice question ko check krna hai 
+phr Assigments 
+phr Ye links
+
+Use Full links
+git chaptrs
+https://github.com/Creede15/practice-it
+
+//gui
+https://www.javatpoint.com/java-layout-manager
+
+//OOP - Composition, Inheritance & Polymorphism
+https://www3.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html#zz-2.11
+
+//only Inheritance 
+https://www.codesdope.com/practice/cpp-multiple-inheritance/
+
+or phr in me se b kuch na mily to kud se krna bhai or Start me hi kudse krlete time waste nhi hota.
